@@ -1,9 +1,21 @@
+## [Updated] DIT and TracIn Comparison for Label Flip Detection
+
+We compared the performance of DIT and TracIn methods for detecting flipped labels. Results are shown in the following figures:
+
+<!-- - ![Compare DIT with TracIn_MNIST_DNN_Flipped](Compare%20DIT%20with%20TracIn_MNIST_DNN_Flipped%20%2030%25.jpg) 
+- [Compare DIT with TracIn_MNIST_DNN_Flipped Quality Results](Compare%20DIT%20with%20TracIn_MNIST_DNN_Flipped%20%2030%25.xlsx) -->
+- **Figure 1: Comparison of DIT vs TracIn for Label Flip Detection with 20% Flipped Labels on MNIST Dataset**
+![DIT TracIn_comparison_20% Flipped](DIT_TracIn_comparison_20%25%20Flipped.png)
+- **Figure 2: Comparison of DIT vs TracIn for Label Flip Detection with 30% Flipped Labels on MNIST Dataset**
+![DIT TracIn_comparison_30% Flipped](DIT_TracIn_comparison_30%25%20Flipped.png)
+
 # Dynamic Influence Tracker (DIT)
 
 **Dynamic Influence Tracker (DIT)** is a project designed to track and analyze dynamic influences in various datasets using neural networks and machine learning techniques. This repository contains the necessary code, configurations, and data to run experiments related to influence tracking, particularly using the Adult dataset.
 
 ## Table of Contents
 
+- [DIT and TracIn Comparison for Label Flip Detection](#dit-and-tracin-comparison-for-label-flip-detection)
 - [Installation](#installation)
 - [Project Structure](#project-structure)
 - [Usage](#usage)
