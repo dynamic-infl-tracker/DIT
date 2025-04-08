@@ -1,13 +1,19 @@
-## [Updated] DIT and TracIn Comparison for Label Flip Detection
+## [Updated on 8th April] DIT and TracIn Comparison for Label Flip Detection
 
 We compared the performance of DIT and TracIn methods for detecting flipped labels. Results are shown in the following figures:
 
-<!-- - ![Compare DIT with TracIn_MNIST_DNN_Flipped](Compare%20DIT%20with%20TracIn_MNIST_DNN_Flipped%20%2030%25.jpg) 
-- [Compare DIT with TracIn_MNIST_DNN_Flipped Quality Results](Compare%20DIT%20with%20TracIn_MNIST_DNN_Flipped%20%2030%25.xlsx) -->
-- **Figure 1: Comparison of DIT vs TracIn for Label Flip Detection with 20% Flipped Labels on MNIST Dataset**
-![DIT TracIn_comparison_20% Flipped](DIT_TracIn_comparison_20%25%20Flipped.png)
-- **Figure 2: Comparison of DIT vs TracIn for Label Flip Detection with 30% Flipped Labels on MNIST Dataset**
-![DIT TracIn_comparison_30% Flipped](DIT_TracIn_comparison_30%25%20Flipped.png)
+- **Figure 1: Comparison of DIT vs TracIn for Label Flip Detection with 2% Flipped Labels on EMNIST Dataset with TinyViT Model**
+![DIT TracIn_comparison_2% Flipped](Fig_1_TinyViT_EMNIST_2_pct.png)
+- **Figure 2: Comparison of DIT vs TracIn for Label Flip Detection with 4% Flipped Labels on EMNIST Dataset with TinyViT Model**
+![DIT TracIn_comparison_4% Flipped](Fig_2_TinyViT_EMNIST_4_pct.png)
+- **Figure 3: Comparison of DIT vs TracIn for Label Flip Detection with 6% Flipped Labels on EMNIST Dataset with TinyViT Model**
+![DIT TracIn_comparison_10% Flipped](Fig_3_TinyViT_EMNIST_6_pct.png)
+- **Figure 4: Comparison of DIT vs TracIn for Label Flip Detection with 8% Flipped Labels on EMNIST Dataset with TinyViT Model**
+![DIT TracIn_comparison_8% Flipped](Fig_4_TinyViT_EMNIST_8_pct.png)
+- **Figure 5: Comparison of DIT vs TracIn for Label Flip Detection with 20% Flipped Labels on MNIST Dataset with DNN Model**
+![DIT TracIn_comparison_20% Flipped](Fig_5_DIT_TracIn_comparison_20_pct_Flipped.png)
+- **Figure 6: Comparison of DIT vs TracIn for Label Flip Detection with 30% Flipped Labels on MNIST Dataset with DNN Model**
+![DIT TracIn_comparison_30% Flipped](Fig_6_DIT_TracIn_comparison_30_pct_Flipped.png)
 
 # Dynamic Influence Tracker (DIT)
 
